@@ -8,7 +8,6 @@ import store from '../stores/index';
 
 import IndexPage from '../pages/index/index'
 
-store.router = routerStore
 class Routes extends React.Component {
     constructor(props) {
         super(props)
